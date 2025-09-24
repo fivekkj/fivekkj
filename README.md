@@ -1,4 +1,16 @@
-<h2 align="center">Hi 👋! My name is Lucas and I'm a programming apprentice, from Brazil</h2>
+<h3 align="center">Hi 👋! My name is Lucas and I'm a programming apprentice, from Brazil</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fivekkj&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fivekkj&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=false&order=2" height="148" alt="languages graph"  />
+</div>
 
 ###
 
@@ -33,14 +45,6 @@
   <a href="mailto:lucasmartins0405@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fivekkj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=fivekkj&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fivekkj&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
