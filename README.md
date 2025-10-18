@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Lucas and I'm a programming apprentice, from Brazil</h3>
+<h3 align="center">Hello!! My name is Lucas and I'm a software developer from Brazil</h3>
 
 ###
 
